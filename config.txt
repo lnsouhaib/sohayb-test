@@ -4,3 +4,4 @@ prefix= d
 game= type dplay
 stayinchannel=true
 songinstatus= true
+NTgxMjI3NjA5MTQ5NjY5NDA3.XOcMog.0766TkH7SdEvOWoQocwZa-TeLiI
